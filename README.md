@@ -1,4 +1,5 @@
 # Node-JS-Playground
+<img src="Images/node_header.png" >
 Node.js is an open source server framework which allows developers to run JavaScript on the server.
 
 ### Start learning Node.js now :
