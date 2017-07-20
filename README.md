@@ -13,7 +13,7 @@ Node.js is an open source server framework which allows developers to run JavaSc
    
 -  Run any example 
 
-      Node-JS-Playground>examples>node Hello_World_HTTP.js
+       Node-JS-Playground>examples>node Hello_World_HTTP.js
    
 - Open webpage with designated port number
 
