@@ -9,14 +9,14 @@ Node.js is an open source server framework which allows developers to run JavaSc
        
 - Change current directory to examples directory
   
-   cd examples
+      cd examples
    
 -  Run any example 
 
-   Node-JS-Playground>node Hello_World_HTTP.js
+      Node-JS-Playground>examples>node Hello_World_HTTP.js
    
 - Open webpage with designated port number
 
-   http://localhost:3030/wintr.html?year=2017&month=february%27
+       http://localhost:3030/wintr.html?year=2017&month=february%27
    
 
